@@ -1,1 +1,2 @@
-# EDA-Capstone-Project-Play-Store-App-Review-Analysis
+# EDA-Capstone-Project-Telecom-churn-Analysis
+
